@@ -1,7 +1,6 @@
 /*
 Name: Fadi Ahmed
 Class: CSC331
-ID: 23500044
 Project # 1
 */
 
