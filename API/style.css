@@ -1,0 +1,35 @@
+body {
+		padding-top: 60px;
+        padding-bottom: 40px;
+		background-image: url('55.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed; 
+		background-size: 100% 100%;
+}
+
+.content{
+        width: 55%;
+        margin: 0 auto;
+}
+
+	
+	.square {
+	text-align: center;
+	height: 550px;
+	background: rgba(229, 231, 233,0.9);
+	border: 4px solid black;
+	font-size: 17px;
+
+	}
+	
+	.square iframe{
+		margin: auto;
+		display: block
+
+	}
+	
+	.next{
+		font-size:20px;
+		
+	}
+	
